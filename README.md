@@ -4,10 +4,11 @@ ViBing is a **full-stack social media application** built using **React, Node.js
 
 ## 📸 Screenshots  
 
-###![ViBing](assets/logo.png)
+### ViBing
+![ViBing](client/src/assets/logo.png)
 
 ### Home Page  
-![Homepage](assets/Screenshot(162).png)  
+![Homepage](client/src/assets/Screenshot(162).png)  
 
 
 ## 🛠️ Tech Stack  
